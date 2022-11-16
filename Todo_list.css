@@ -1,0 +1,77 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+}
+
+h1
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    
+    
+}
+
+div
+{
+    border: 15px solidrgb(50, 150, 0);
+    margin: 15px;
+    padding: 5px;
+    box-shadow: 2px 5px 5px rgba(255, 165, 0, 0.8);
+    border: none;
+    border-radius: 50px;
+    background-color: #57585a; 
+}
+
+.container 
+{    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 20px; */
+    padding: 20px;
+    color: rgb(70, 69, 69);
+    text-align: center;
+    /* border-radius: 50%; */
+    border-color: #1a1a1a;
+   
+}
+
+#input {
+    color: rgb(254, 249, 249);
+    border: none;
+    width: 20%;
+    height: 6vh;
+    text-align: center; 
+    border-radius: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    /* border-color: black; */
+    background-color: #434346;
+    border-color: rgb(13, 13, 16);
+   
+}
+
+#btn {
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    width: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color:#f57412;
+    color: white;
+    font-size: x-large;
+    margin-left: 20;
+
+}
+.todo{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.HT{
+    border-radius: 10px;
+}
